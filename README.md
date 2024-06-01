@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anshaf Thanish</h1>
 <h3 align="center">A passionate full staack developer from Srilanka</h3>
 <img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://raj-rathod.github.io/rajesh-rathore/)](https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif)">
+![](https://github.com/anshaf-thanish/anshaf-thanish/blob/main/developer-2.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshaf-thanish&label=Profile%20views&color=0e75b6&style=flat" alt="anshaf-thanish" /> </p>
 
