@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Placements in SE**
 
-- 👨‍💻 All of my projects are available at [https://anshaf-thanish.github.io/Portfolio/](https://anshaf-thanish.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/anshaf-thanish?tab=repositories)
 
 - 💬 Ask me about **react and css**
 
